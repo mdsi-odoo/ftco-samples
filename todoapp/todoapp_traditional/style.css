@@ -1,0 +1,17 @@
+.todo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+#content {
+    margin-bottom: 20px;
+}
+
+textarea {
+    margin-right: 10px;
+}
